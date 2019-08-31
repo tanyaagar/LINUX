@@ -22,7 +22,7 @@ But, in Linux, files are ordered in a tree structure starting with the root dire
  ls         To list all the files in the current directory.
 ls -R       To show all the files present not only in the directory but also subdirectory.
 ls -a       To show all the hidden files.
-cat > filename                   to create a new file
+cat > filename                   to create a new file 
 cat filename                      Displays the file content
 cat file1 file2 > newfilename    The syntax to combine 2 files
 rm filename                       remove file
