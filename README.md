@@ -45,7 +45,7 @@ Here the different perissions have octal no assigned to them eg 7 means R+W+X
 sudo chown owner_name file_name       used to change owner
 mkdir directoryname                   used for making new directory
 rmdir directoryname                   used for removing directory
-
+pwd                                   shows the present working directory
 
 
 
